@@ -4,8 +4,8 @@
 The purpose of our analysis is to determine whether a bike sharing program such as the Citi Bike program in New York City would be feasible in Des Moines, Iowa. To that end, we have used data from the aforementioned Citi Bike program in order to make a fundraising presentation to potential investors.
 
 ## Results
-The results of our analysis are best described by the following visualizations created in Tableau: [link to dashboard] [
-](https://public.tableau.com/app/profile/barry.bingham/viz/NYC_Citibike_Challenge_16549579381150/TopStartingLocations?publish=yes)
+The results of our analysis are best described by the following visualizations created in Tableau: [link to dashboard]
+(https://public.tableau.com/app/profile/barry.bingham/viz/NYC_Citibike_Challenge_16549579381150/TopStartingLocations?publish=yes)
 
 ![B64E8FEE-421C-4A87-B7A6-1E5577B09DF6](https://user-images.githubusercontent.com/101157423/173234290-c0adbf28-b3bb-4072-9399-ecd210c041a3.jpeg)
 
